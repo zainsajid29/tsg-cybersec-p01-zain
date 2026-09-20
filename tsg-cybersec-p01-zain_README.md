@@ -23,3 +23,6 @@ After deductions are subtracted from the base entropy, the script categorizes th
 * **Strong ( > 60 bits ):** Highly resistant to massive offline brute-force attacks.
 * **Fair ( 36 - 60 bits ):** Safe from basic online throttling but vulnerable to dedicated offline cracking.
 * **Weak ( < 36 bits ):** Trivially easily cracked instantly or within minutes.
+
+## 4. Credits & Assets
+* **Wordlist Integration:** The script cross-references inputs against the Top 100,000 most common passwords list, sourced from the [SecLists repository by Daniel Miessler](https://github.com/danielmiessler/SecLists).
