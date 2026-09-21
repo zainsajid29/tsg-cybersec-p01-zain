@@ -14,3 +14,4 @@ F-12,Device Lock & Encryption,iPhone requires FaceID and a 6-digit alphanumeric 
 F-13,Password Reuse,University student portal shares a password with a gaming forum,High,Forums are frequent targets for data breaches which could compromise academic records,Change university password immediately
 F-14,App Permissions,Social media app has continuous background location access,Medium,Allows constant tracking of physical movements,Change permission to 'Only While Using the App'
 F-15,2FA Coverage,LinkedIn uses email-based verification codes instead of TOTP,Medium,Email interception compromises the account,Switch to an authenticator app in security settings
+F-16, Breach Exposure, Account A and Account B checked against public databases with 0 known breaches found., Low, No current credential exposure detected., Continue monitoring and maintain unique passwords.
